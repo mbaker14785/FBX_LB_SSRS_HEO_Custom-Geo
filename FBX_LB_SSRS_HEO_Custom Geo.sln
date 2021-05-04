@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "FBX_LB_SSRS_HEO_Custom Geo", "FBX_LB_SSRS_HEO_Custom Geo\FBX_LB_SSRS_HEO_Custom Geo.rptproj", "{987463D0-65D4-4D90-82BB-D7CA88474EAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{987463D0-65D4-4D90-82BB-D7CA88474EAE}.Debug|Default.ActiveCfg = Debug
+		{987463D0-65D4-4D90-82BB-D7CA88474EAE}.Debug|Default.Build.0 = Debug
+		{987463D0-65D4-4D90-82BB-D7CA88474EAE}.Debug|Default.Deploy.0 = Debug
+		{987463D0-65D4-4D90-82BB-D7CA88474EAE}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{987463D0-65D4-4D90-82BB-D7CA88474EAE}.DebugLocal|Default.Build.0 = DebugLocal
+		{987463D0-65D4-4D90-82BB-D7CA88474EAE}.Release|Default.ActiveCfg = Release
+		{987463D0-65D4-4D90-82BB-D7CA88474EAE}.Release|Default.Build.0 = Release
+		{987463D0-65D4-4D90-82BB-D7CA88474EAE}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9EFA4F55-CBD7-4376-BBCA-768BF79D9486}
+	EndGlobalSection
+EndGlobal

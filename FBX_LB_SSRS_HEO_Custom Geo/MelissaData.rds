@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="MelissaData">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=usefbxprddb01;Initial Catalog=MelissaStage</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>2c517690-9349-42e6-a71b-fde02df1805d</DataSourceID>
+</RptDataSource>
